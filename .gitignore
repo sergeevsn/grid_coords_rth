@@ -1,0 +1,9 @@
+env/
+.ipynb_checkpoints/
+.idea
+test/
+dist/
+build/
+filelist.txt
+*.ipynb
+*.sgy
